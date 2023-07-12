@@ -1,1 +1,1 @@
-Thang sua file B
+Thang sua file B - trong Visual Studio
